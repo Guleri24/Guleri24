@@ -1,1 +1,1 @@
-![](/resources/intro.gif)
+Hey there, I'm Abhishek Guleri
