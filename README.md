@@ -1,1 +1,1 @@
-![](/resources/intro.gif)
+![](/resources/intro.mp4)
