@@ -13,7 +13,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://www.google.com/maps/contrib/101233050070952207820/">Local Guide @ Google Maps</a>
+├─◈ <a href="https://www.google.com/maps/contrib/101233050070952207820/">Local Guide</a>
 ├─◈ <a href="https://www.linkedin.com/in/abhishek-guleri-058161162/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
