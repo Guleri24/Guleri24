@@ -29,7 +29,7 @@
 
 ┌──┤ Updates ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Guleri24/guleri24-docs/blob/main/a_linux_user_in_pain/remove_volume_overlay_win10.md">guleri24 docs > Remove the annoying volume popup overlay</a>
+├─◈ <a href="https://guleri24.github.io/guleri24-docs/a_linux_user_in_pain/remove_volume_overlay_win10.html">guleri24 docs > Remove the annoying volume popup overlay</a>
 ├─◈ <a href="https://guleri24.github.io/guleri24-docs/a_linux_user_in_pain/visual_studio_tips.html">guleri24 docs > Visual Studio Tips</a>
 ├─◈ Exploring 5G call flows
 │
