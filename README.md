@@ -1,7 +1,3 @@
-![wall](https://user-images.githubusercontent.com/43719098/213900767-88d79fc6-c305-4cdb-8e80-faaef1242592.jpg)
-
-
-
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
