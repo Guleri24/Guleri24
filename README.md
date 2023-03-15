@@ -30,5 +30,12 @@
 ├─◈ Exploring 5G call flows
 │
 └───────────────────────────────▰▰▰
+
+
+┌──┤ Tips ├───────▰▰▰
+│
+├─◈ Automatically Starting tmux on SSH : <i>ssh <username>@<ip> -t -- /bin/sh -c 'tmux has-session && exec tmux attach || exec tmux'</i>
+│
+└───────────────────────────────▰▰▰
 </pre>
 
