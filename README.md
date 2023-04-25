@@ -35,9 +35,9 @@
 ┌──┤ Tips ├───────▰▰▰
 │
 ├─◈ Automatically Starting tmux on SSH :
-│   <i>ssh username@ip -t -- /bin/sh -c 'tmux has-session && exec tmux attach || exec tmux'</i>
+│     ssh username@ip -t -- /bin/sh -c 'tmux has-session && exec tmux attach || exec tmux'
 ├─◈ Mail the output of the terminal :
-│   <i> command | mailx -s "Subject" name@domain.com
+│     command | mailx -s "Subject" name@domain.com
 │
 └───────────────────────────────▰▰▰
 </pre>
